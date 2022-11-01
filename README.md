@@ -2,7 +2,7 @@
   <p align="center">AluraBooks</p>
  </h1>
  
-![AluraBooksMobile](https://user-images.githubusercontent.com/95223411/199304438-9a26251f-688f-419b-a535-da2080f4b252.png) ![AluraBooksDesktop](https://user-images.githubusercontent.com/95223411/199308375-b04b025c-c640-4665-a98a-c5fc32358ff2.png)
+![AluraBooksMobile](https://user-images.githubusercontent.com/95223411/199304438-9a26251f-688f-419b-a535-da2080f4b252.png) ![AluraBooksDesktop](https://user-images.githubusercontent.com/95223411/199308648-fee0ed61-fa42-4c0f-bb88-709e97c14cb1.png)
 
 
 
