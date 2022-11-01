@@ -19,7 +19,7 @@ O AluraBooks é um objeto didático produzido pela Alura que emula o website res
   - Começar a construir um projeto HTML;<br />
   - Criar variáveis CSS;<br />
   - Usar a extensão live-server;<br />
-  - Aplicar o reset.css.
+  - Aplicar o reset.css. <br />
 <br />
   <strong>Header, Flexbox e @import</strong><br />
   - Baixar imagens no Figma; <br />
@@ -49,6 +49,7 @@ O AluraBooks é um objeto didático produzido pela Alura que emula o website res
  <strong>Produzindo CSS para o Desktop</strong><br />
   - Aplicar estilos com media queries diferentes; <br />
   - Usar estilos diferentes no mesmo elemento com pseudo-classes. <br />
+<br />
  <strong>Publicando o Projeto</strong><br />
   - Construir um repositório com o código do curso; <br />
   - Escrever commits; <br />
